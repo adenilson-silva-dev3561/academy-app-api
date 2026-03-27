@@ -11,7 +11,7 @@
 	<groupId>com.adenilson</groupId>
 	<artifactId>course-management-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>course-management-api</name>
+	<name>academy-app-api</name>
 	<description>API REST para gerenciamento de agendamentos</description>
 	<url/>
 	<licenses>
