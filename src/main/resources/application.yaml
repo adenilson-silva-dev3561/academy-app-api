@@ -20,4 +20,13 @@ spring:
       mode: never
 
 server:
-  port: 8080
+  port: 8081
+
+keycloak:
+  server-url: http://localhost:8080
+  realm: academy-app
+  client-id: academy-app
+  client-secret: seu-client-secret
+  admin-client-id: admin-cli
+  admin-username: adenilson
+  admin-password: 356132
